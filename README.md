@@ -1,2 +1,1 @@
-git pull origin main
-git status
+цель: изучение Git и GitHub, этапы работы, технологии: Git, GitHub
